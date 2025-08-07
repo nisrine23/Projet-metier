@@ -1,3 +1,5 @@
+                   Automatisation de la méthodologie TRIZ avec les Larges languages Models 
+ 
  Dans un paysage industriel et technologique en constante évolution, la ré
 solution de problèmes complexes nécessite des approches à la fois structurées
  et créatives. La méthode TRIZ (Théorie de Résolution des Problèmes In
